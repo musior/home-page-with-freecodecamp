@@ -1,0 +1,34 @@
+{
+  "name": "home-page-with-freecodecamp",
+  "version": "1.0.0",
+  "description": "Learning bootstrap v5 with Sass.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musior/home-page-with-freecodecamp.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "Mateusz Musiorski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musior/home-page-with-freecodecamp/issues"
+  },
+  "homepage": "https://github.com/musior/home-page-with-freecodecamp#readme",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "autoprefixer": "^10.4.16",
+    "bootstrap": "^5.3.2"
+  }
+}
